@@ -1,16 +1,3 @@
----
-jupyter:
-  colab:
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
-
-::: {.cell .markdown id="38oX-uZV6nQA"}
 # Personal Wikipedia of John Doe
 
 ## [Introduction](#introduction)
